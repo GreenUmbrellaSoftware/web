@@ -1,0 +1,63 @@
+body { 	background-color: #000000;
+	color:#ffffff;
+	font-family: Verdana, Arial, sans-serif;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-image:url('circuit3.png');
+	background-repeat: no-repeat;
+}
+#container { background-color: #000000;
+	     color: #ffffff;
+	     line-height:140%;
+	     width: 70%;
+	     
+	     margin-left: auto;
+	     margin-right: auto;
+        
+}
+
+logo {	background-color: #ccaa66;
+	color: #000000;
+	text-align: center;
+	margin: 0;
+	border-bottom: 2px double #000000
+	
+}
+#content { margin-left: 150px;
+	   background-color: #f1e8b0;
+	   color: #000000;
+	   padding: 10px 20px;
+	   overflow: auto;
+}
+#nav { background-color: #006600;
+       width: 86%;
+       margin-left: 7%;
+       height: 30px;
+       text-align: center;
+       font-size: small;
+       line-height: 32px;
+       
+       
+             
+}
+
+.nav li { display: inline;
+		  padding: 0px 20px;
+}
+
+.nav a:link { color: #FFFFFF;
+              list-style-type: none;
+              text-decoration: none;
+              
+}
+
+.nav a:visited { color: #beb98f;
+                 text-decoration: none;
+}
+
+.nav a:focus { background-color: #002100;
+               
+}
+
+.nav a:hover { color: #b5c6f4;
+}
